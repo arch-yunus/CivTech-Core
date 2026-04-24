@@ -291,8 +291,8 @@ Bu proje, inşaat mühendisliği disiplinini modern yazılım mimarileriyle yeni
 
 Geleneksel mühendislik formasyonunu ileri düzey yazılım mühendisliği pratikleriyle birleştirerek, sadece çalışan kodlar değil, sürdürülebilir ve ölçeklenebilir dijital ekosistemler inşa etmeyi hedeflemektedir.
 
-*   🌐 **GitHub:** [bahattinyunus](https://github.com/bahattinyunus)
-*   👔 **LinkedIn:** [Bahattin Yunus Çetin](https://www.linkedin.com/in/bahattinyunus/)
+*   🌐 **GitHub:** [arch-yunus](https://github.com/arch-yunus)
+*   👔 **LinkedIn:** [Yunus Çetin](https://www.linkedin.com/in/bahattinyunus/)
 
 ---
 
