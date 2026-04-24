@@ -284,7 +284,7 @@ Bu proje, açık kaynak felsefesine sıkı sıkıya bağlıdır ve kolektif zeka
 
 ## �‍💻 Mimar ve Geliştirici Hakkında
 
-**Bahattin Yunus Çetin**
+**Yunus Çetin**
 *IT Architect*
 
 Bu proje, inşaat mühendisliği disiplinini modern yazılım mimarileriyle yeniden yorumlayan bütüncül bir vizyonun eseridir. Trabzon'un Of ilçesinde üniversite eğitimine devam eden Bahattin Yunus Çetin, akademik çalışmalarını profesyonel "IT Architect" yetkinlikleriyle harmanlayarak, inşaat teknolojileri (CivTech) alanında sektörel dönüşüme öncülük eden sistemler tasarlamaktadır.
